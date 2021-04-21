@@ -1,4 +1,4 @@
-# Política de Privacidad
+# Privacy policy
 
 Some sounds for the are licensed CC BY 3.0, you can see the author name and full credit when this sound is reproduced inside the game.
 
