@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  border-bottom: none;
+  h1 { width: 100%;}
+  h2, h1 {
+    color : #FFFA5B;
+ }
+}
+  
+aside {
+  img {
+      width: 200px;
+      margin: 0 auto;
+      text-align: center;
+      margin-left: 30px;
+  }
+  a.button {
+    background: none !important;
+    margin : 0 auto;
+    text-align: center;
+    margin-bottom: 0px;
+    padding-left: 0px;
+  }
+}
+
