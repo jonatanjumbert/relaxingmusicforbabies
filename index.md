@@ -17,7 +17,7 @@ Your baby is now ready to sleep quickly with the songs and the relaxing sounds t
 FEATURED FEATURES:
 
 - 🎵 Thirteen songs, sounds, lullabies, white noises and relaxing high quality melodies that will help your baby to fall asleep quickly.
-🕹️ Interactive and didactic application, help your baby to discover new animals and interact with them in an easy manner. Just let your baby touch them and they will make nice sounds and some movements that will get her attention.
+- 🕹️ Interactive and didactic application, help your baby to discover new animals and interact with them in an easy manner. Just let your baby touch them and they will make nice sounds and some movements that will get her attention.
 - ▶️ Easy user interface with just 3 buttons that allows you to change between scenes, select another song, pause the music, lower the contrast and select the time were the music will play.
 - ⏰ You can schedule the number of hours or minutes the song will be playing, once time is over the relaxing music will be stopped, for this moment your baby should be asleep.
 - 💡 After some time of inactivity, Relaxing music for baby sleep and lullabies will fade to black to keep the baby's room from being lit. Also, this will help maintain your phone's battery.
